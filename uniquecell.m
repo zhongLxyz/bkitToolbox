@@ -34,4 +34,3 @@ function [Au, idx ,idx2] = uniquecell(A)
         end
     end
 end
-
