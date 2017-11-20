@@ -1,4 +1,6 @@
-Here is a list of summary of what each scripts does in bkitToolbox, for detailed info on how to use them, please look at the comment at the top of each script themselves. Some scripts in the toolbox is not included in this help document, that's because they are helper functions and usually won't be called by themselves alone.
+The bkitToolbox is a data analysis toolbox written in MATLAB designed for the Biomotion Lab to analyze dataset output from PsychBench and BMLkit. It is responsible for most of the analysis need in the study of the perceptual bias in the perception of biological motion. It can visualize and model the data, generate new data to simulate the characteristics of a desired participant among other things.
+
+Here is the documentation for the functions included in the toolbox.
 
 - bkitRead(name)
 
